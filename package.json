@@ -1,0 +1,23 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "a sample simple node application to run and push it to git",
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavichelvan/simple-node.git"
+  },
+  "author": "kavichelvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavichelvan/simple-node/issues"
+  },
+  "homepage": "https://github.com/kavichelvan/simple-node#readme",
+  "dependencies": {
+    "log": "^6.0.0"
+  }
+}
