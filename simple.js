@@ -16,6 +16,6 @@ function run(){
     console.log('inside run function')
 
     for (x of vars){
-        console.log('second for loog ' + x)
+        console.log('second for log ' + x)
     }
 }
